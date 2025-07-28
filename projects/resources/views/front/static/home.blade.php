@@ -20,7 +20,7 @@
         <div class="overlay">
             <div class="hero-content" data-aos="zoom-in" data-aos-duration="1500">
                 <h1 class="h-big">
-                    <span class="nst">Giff Vacation Pool Homes</span><br/> Near Disney World 
+                    <span class="nst">Gif Vacation Pool Homes</span><br/> Near Disney World 
                 </h1>
             </div>
         </div>
