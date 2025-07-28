@@ -93,7 +93,7 @@
         <div class="row flex-lg-row flex-column-reverse">
             <div class="col-lg-6 text-center text-lg-start">
                 <div class="heading_sec">
-                    <h3 class="heading">About Us</h3>
+                    <h3 class="heading">About Us   </h3>
                 </div>
                 {!!  $data->mediumDescription !!}
                 <a href="{{url('/about-us')}}" class="main-btn mt-4" role="button"> <span class="content-wrapper"> <span class="icon"><i class="fa-solid fa-arrow-right"></i></span><span class="button-text">Explore</span> </span></a>
